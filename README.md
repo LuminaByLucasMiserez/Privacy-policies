@@ -1,2 +1,2 @@
 # Privacy policies
- Privacy policies of my apps
+ Privacy policies for the apps created by Lumina
